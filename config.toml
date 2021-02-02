@@ -20,3 +20,10 @@ theme = "ananke"
   rss = ""
   featured_image = "/images/fancy-swirly-rocks.jpg"
   recent_posts_number = 2
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = -110
